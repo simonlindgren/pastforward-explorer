@@ -73,9 +73,6 @@ st.markdown(
             <strong>Category Breakdown</strong>
             <span style="color: #888;"> — Super-category distribution by country</span><br>
             <span style="color: #c084fc;">›</span>
-            <strong>Similar Terms</strong>
-            <span style="color: #888;"> — Word2Vec neighbours of dictionary terms</span><br>
-            <span style="color: #c084fc;">›</span>
             <strong>3D Embedding Space</strong>
             <span style="color: #888;"> — Interactive 3D visualisation of model vocabulary</span><br>
             <span style="color: #c084fc;">›</span>
