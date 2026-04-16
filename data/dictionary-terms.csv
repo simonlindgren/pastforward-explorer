@@ -1,0 +1,94 @@
+English,Danish Word(s),Danish Comments,Finnish Word(s),Finnish Comments,Norwegian Word(s),Norwegian Comments,Swedish Word(s),Swedish Comments
+Conceptual (22 Rows),,,,"There are 15 (I think!) cases in Finnish, but with the *, the different cases should be captured, right?",,,Conceptual,
+"Memor*, Memory, Memories, Memorial, Memorialise, Memorialisation ","Mind*, minde, minder, mindeværdig, mindes",,"Muisto*, muisti*, muistoja, muistot, muistoa",,"Minn*, Minne, Minner, Minnesmerke, Å minnes, Minnesmerking",,"minn*, minne, minnet, minnen, minnena, minnas, minns, minnes-",
+"Tradition*, Tradition, Traditions Traditional ","Tradition*, tradition. traditoner, traditionel",,"Perin*, perinne, perinteet, perinteisiä",,"Tradisjon*, Tradisjon, Tradisjoner Tradisjonell",,"tradition*, tradioner, traditionen, traditionerna, traditionell, traditionella, traditionellt",
+"Heritage, Inherit, Inheritance ","Arv, arve, arv",,"Perin*, perintö, perintöä, perintöjä ",,"Arv, Arve, Arv",,"arv*, arvs, arven, arvet; ärv*, ärva, ärvt, ärvda; nedärv*, nedärvda, nedärvts, nedärvd, nedärvs",
+"Commemor*, Commemoration, Commemorations, Commemorate ","Mindehøjtidelighed, mindes sammen/markere",The word does not translate directely into an independent Danish word,"muistella, viettää () muistoa, kunnioittaa () muistoa","for the two last terms, you need the object of commemmoration in between the two words","Minnemerk*, Minnesmarkering, Minnesmarkeringer, Å minnes",,-,same translation as memor*
+"Rememb* Remembrance, Remember (excluding 'remember to' vote), Remembering; Recall","Husk*, huske, genkalde sig ",,"Muista*, muistaa",,"Huske, Minnesmerke, Huske",,"ihågkom*, ihågkomst, ihågkomna, ihågkommes",some of these are rarely used in everyday Swedish language - but if we want to be exhaustive we should include them in the dictionary anyways.
+"Histor*, History, Historical","Historie, historien, historisk",,"historia, historialli*, historiallinen",,"Histor*, Historie, Historisk",,"histori*, historia, historien, historisk, historiska, historisk",
+"Recollection, Recollect ","Erindring, erindre",,"muistaa, muistella","As far as I know, commemmorating, remembering, recollecting (and reminiscing?) don't really have different terms in Finnish","Gjenkalle, Huske",,återkalla,"This has two meanings in Swedish - and ""återkalla"" as in recollect is mainly used in literary contexts, whereas the other meaning (retract) is much more commonly used in everyday/political language - so this term may produce some noise. Probably not that much noise - but I would still suggest excluding it."
+Generation*; generational,"Generation, generationer, generationel",,"sukupuolv*, sukupuolvi, sukupolvet, ylisukupolvelli*, ylisukupolvellinen, ylisukpolvellisia",,"Genrasjon*, Generasjonell",Genrasjonell is hardly ever used,"generation*, generationer, generationen, generationerna, generationernas, generationens, generationell, generationella",
+Legacy,Arv,,perintö,,Arv,,"legend*, legenden, legender, legendarisk, legendariska, legendariskt, legenderna","The by far most common translation would be the same as for heritage/inheritance - but this related term may be worth including for when parties speak of ""legendary"" representatives etc."
+"Nostalgi*, Nostalgia, Nostalgic","Nostalgi, nostalgisk",,"nostalgi*, nostalgia, nostalginen",,"Nostalgi*, Nostalgia, Nostalgisk",,"nostalgi*, nostalgisk, nostalgiska, nostalgiskt",
+"Remind*, Reminds, Reminder, Reminded","Påmind*, påminde, påminder, påmindet",,"muistut*, muistuttaa, muistutus",,"Minner*, Minder, Påminnelse, Minnet",,"påminner, minner",
+"Restore, Restoration ","genskabe, genopbygge, genoprette, genskabelse, genopbyggelse, genoprettelse",,palauttaa,,"Gjenopprette, Restaurering",Restaurering is more often used about buildings,"återställ*, återställts, återställa, återställda, återställt; återuppbygg*, återuppbygga, återuppbyggt, återuppbyggd",
+"Reconstruct, Reconstruction","rekonstrurere, rekonstruktion, genopbygge ",There is a lot of content overlap from the word above in Danish,"ennallista*, ennallistaa, ennallistami*, ennallistaminen, entisöi*, entisöidä, entisöiminen",,"Gjenoppbygge, Gjenoppbygging",,rekonstruera,"This particular translation is rarely used in political contexts/language - but the other translations are covered above, as they are the same as for ""restore"""
+Rebuild,genopbygge,,rakentaa uudelleen,,"Bygg på nytt, Gjenoppbygge, Gjenopprette",,-,Same Swedish translation as for restore
+Preserve,bevare,,"säilyt*, säilyttää, säilytys, ylläpi*, ylläpitää",,Bevare,,"bevar*, bevara, bevarade, bevarats, bevarande",
+Return,vende tilbage,,"pala*, palata, palaamme",,"Return*, Returnere",,"återgå, återvända, återvänt, återgick, återgått",
+Recreate ,genskabe,,"luoda uudestaan, elvyt*, elvyttää",,Gjenskape,,"återskapa*, återskapat, återskapade, återskapande",
+Reclaim,generobre,,"ottaa takaisin, palauttaa",,Gjenvinne,,"återta*, återerövra*",
+"Origin*, Origins, Originated (excluding original)","Oprindelse, oprindelig, stammer fra",,"alkuperä*, alkuperäinen, peräisin",,"Opprinnelse*, Opprinnelser, Oppsto",,"ursprung*, ursprunglig",
+Vanished,"Forsvundet, forsvandt, gået tabt",,kadonnut,,"Forsvinne, Forsvunnet",,"försvann, försvunn*, försvunnen, försvunnit",
+Decay,Forfald,,"hajoaminen, rappeutuminen",,Forfall,,förfall*,
+Erosion,"erosion, erodere",,"eroosio, syövyttäminen",,Erosjon,,"urholka*, urholkad, urholkat, urholkas","Not a direct translation, but if we're talking eroded welfare etc., this is the Swedish equivalent"
+,,,,,,,,
+Temporal (13 rows),,,,,,,Temporal,
+Past,Fortid,,menneisyys,,Fortid,,"dåtid*, dåtida, dåtiden; förflut*, förflutna, förflutet, förfluten, tidigare","The last translation (""tidigare"") also translates into previous or earlier, so might catch a lot of noise in the data."
+Ancient,Gammel,,muinainen,,"Gammel, Eldgammel",,"urminn*, urminnen, urminnes, forntid*, forntida, forntiden, forntidsminnen, forntidslämningar",
+Decade,Årti,,vuosikymmen*,,Tiår*,,"decenn*, decennium, decennier, decenniet, årtiond*, årtionde, årtionden, årtiondena",
+"Recent*, recently","For nylig, nyligt",,"viimeaikainen, hiljattainen",,Nylig*,,"nylig*, nyliga, nyligt, nyligen; nyss",
+"centur*, century, centuries","århundrede, århundreder",,"vuosisa*, vuosisata, vuosisadat, vuosisadalla",,"Århundre, Århundret, Århundrer",,"århundrade*, århundraden, århundradet",
+"former*, formerly ",forhåndværende,,"enti*, entinen, entiset, entisellä, entisenä, entisessä",,"Tidligere, Før, Forhendværende",,tidigare,"See comment above regarding the (too?) broad meaning of the word ""tidigare"""
+"previous*, previously",Tidligere,,"edelli*, edellinen, edellistä, edelliset, edellisiä",,"Tidligere, Før",,"förr*, förre, förra",
+epoch,epoke,,"aikakau*, aikakausi, aikakaudella",,"Epok*. Epoke, Epoker",,epok*,
+Period ,periode,,"ajanjakso*, ajanjaksolla, ajanjaksot",,"Period*, Periode, Perioder, Periodene",,period*,
+Viking ,Viking,,viikinki,,Viking*,,viking*,"(asterisk to also catch ""vikingatiden"" etc.)"
+Obsolete,Forældet,,vanhentunut,,"Utdatert, Foreldet",,föråldrad*,
+Bygone,Forgangen,,mennyt,,Forgangen,,"förgång*, förgångna, förgången",
+"s (e.g., 50s, 1950s)","´erne, tallet","50´erne, 1950´erne, 1900 tallet",-luvulla ,50-luvulla,-tallet,50-tallet,"-tale*, -talet, -talen",
+,,,,,,,,
+Bigram Phrases (25 rows),,,,,,,Bigram phrases,
+years ago,år siden,,vuotta sitten,,år siden,,år sedan,
+years since,år siden,,vuosia siitä lähtien,,år siden,,-,same as above - no difference between since/ago in Swedish
+long time,for lang tid siden,,kauan,,lang tid siden,,lång tid,
+long ago ,længe siden,,kauan sitten,,lenge siden,,länge sedan; länge sen,
+bring back ,"få tilbage, give tilbage",,tuoda takaisin,,"få tilbake, gi tilbake",,ta tillbaka,
+Worse before,værre tidligere,,huonommin ennen,,verre før,,värre förr; värre tidigare; sämre förr; sämre tidigare,
+Better before,bedre før,,paremmin ennen,,bedre før,,"bättre innan, bättre före, bättre förr",
+back then,dengang,,"silloin, siihen aikaan",,den gang,,på den tiden,"not sure if it needs to be specifically two words - in that case I would opt for ""den tiden"""
+old days,"de gamle dage, i gamle dage",,"vanhat ajat, vanhoina aikoina",,i gamle dager,,"gamla tider, gamla dagar*",
+grew up,"voksede op, opvoksede",,"kasvoi, varttui",,vokse opp,,"växte upp, vuxit upp",
+my youth ,min ungdom,,nuoruudessani,,min ungdom,,min ungdom,
+my childhood,min barndom,,lapsuudessani,,min barndom,,min barndom,
+my past,min fortid,,menneisyydessäni,,min fortid,,"mitt förflutna, min tidigare, mitt tidigare",could also be translated to 'min/mitt föredetta' - but that version is probably a bit too broad
+Last year,sidste år,,viime vuonna,,i fjor,,"förra året, senaste året",
+Last decade,sidste årti,,viime vuosikymmenenä,,siste tiår*,,"förra årtionde*, senaste årtionde*, föregående årtionde*, förra decenni*, senaste decenni*, föregående decenni*",
+"last election*, last elections","sidste valg, valg",,"viime vaaleissa, viime vaalit",,forrige valg,,"senaste val*, förra val*, föregående val*",
+last governmental period,sidste regeringsperiode,,"viime vaalikausi, viime vaalikaudella",,forrige regjeringsperiode,,"förra mandatperiod*, senaste mandatperiod*, föregående mandatperiod*",
+Never before,aldrig før,,ei ikinä aiemmin/aikaisemmin,,aldri før,,"aldrig förr, aldrig tidigare, aldrig förut",
+in hindsight,"bagklogskabens lys, når vi ser tilbage",,"jälkikäteen ajateltuna, näin jälkikäteen",,"i ettertid, i etterpå klokskapens lys",,i backspegeln; med facit i hand,"the second one is probably overkill and is included because it is the equivalent version of ""in hindsight"" rather than being backed by the data. ""facit"" specifically is commonly used though, but is too broad to be included as a single word"
+before us,før os,,ennen meitä,,før oss,,före oss,
+over time,"igennem tiden, over tid",,ajan myötä,,over tid,,över tid,
+four years,fire år,,neljä vuotta,,fire år,,fyra år*,
+eight years,otte år,,kahdeksan vuotta,,åtte år,,åtta år*,
+modern time,moderne tider,,"moderni aika, nykyaika",,moderne tid,,modern tid,
+whole life,hele livet,,koko elämä,,hele livet,,hela livet,"even more common is probably ""hela mitt liv"", ""hela ditt liv"" and ""hela sitt liv"""
+,,,,,,,folkhem*,
+,,,,,,,"svik*, svikit, svikna; svek*, svekna, sveket",
+Total Rows = 60 ,,,,,,,,
+,,,,,,,,
+Rejected (for now) proposed additions ,,,,,,,,
+built,byggede,,rakennettu,,bygget,,"byggt, byggde",
+when,da,,kun,,Da,,,
+those who have,dem der har,,"he, jotka ovat",,De som har,,de som har,super broad...
+since long,for lang tid siden,,jo kauan,,for lang tid siden,,sedan länge; under lång tid,
+we owe ,vi skylder,,olemme velkaa,,Vi skylder,,vi är skyldiga,very difficult to phrase this as a bi-gram in Swedish without opening up for lots of noise
+Already in,allerede i,,jo,,Allerede inn,,redan under; redan vid,
+I går,yesterday,,eilen,,I går,,I går,"will pick up lots and lots of noise since a huge proportion of the posts are about ""yesterday's debate"""
+For a number of years,I en årrække,,muutaman/useamman vuoden ajan,,I flere år,,i flera år; under flera år,"if we want to stick to bi-grams: ""flera år"" is probably even better as it catches both versions of the phrase"
+was at the forefront of,stod i spidsen for ,,oli eturintamassa,,Stod i spissen for,,var föregångare; gick i bräschen för; stod i fronten för,
+gøre det igen,do it again,,"tehdä taas, tehdä uudelleen/uudestaan",,Gjør det igjen,,gör det igen; göra det igen,
+era,era,,"aikakau*, aikakausi, aikakaudella",I don't think there's a difference in Finnish between epoch and era,"Epoke, Era",,"era, eror, eran","N.B.! ""era""/""eran"" are also plural forms of ""your"" in Swedish, so big risk of noise with this term."
+,,,,,,,,
+https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1359,,,,,,,,
+https://nlp.stanford.edu/pubs/2012-naacl-temporal.pdf,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Open questions: decide about stems and tails or list precise keywords when translating - compound words,,,,,,,,
+check lwic dictionary (sam),,,,,,,,
+check common bigrams/phrases from facebook studies (Kalle and Marie),,,,,,,,
+Translations - attention to different language contexts ,,,,,,,,
+Run in english first? (sam and simon),,,,,,,,
+exact words with spaces,,,,,,,,

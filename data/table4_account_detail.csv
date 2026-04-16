@@ -1,0 +1,69 @@
+Country,Account,Party,Position,Type,Total posts,Past-related,Match rate (%)
+DK,Sofie Carsten Nielsen,Danish Social Liberal Party,Centre,Leader,298,79,26.5
+DK,Radikale Venstre,Danish Social Liberal Party,Centre,Party,263,17,6.5
+DK,Lars Løkke Rasmussen,Moderates,Centre,Leader,231,84,36.4
+DK,Moderaterne,Moderates,Centre,Party,83,10,12.0
+DK,Pia Olsen Dyhr,Green Left,Left,Leader,340,88,25.9
+DK,Socialistisk Folkeparti,Green Left,Left,Party,393,60,15.3
+DK,Enhedslisten,Red-Green Alliance,Left,Party,487,68,14.0
+DK,Mette Frederiksen,Social Democrats,Left,Leader,366,87,23.8
+DK,Socialdemokratiet,Social Democrats,Left,Party,443,36,8.1
+DK,Franciska Rosenkilde,The Alternative,Left,Leader,206,37,18.0
+DK,Alternativet,The Alternative,Left,Party,433,58,13.4
+DK,Det Konservative Folkeparti,Conservative People's Party,Right,Party,276,56,20.3
+DK,Dansk Folkeparti,Danish People's Party,Right,Party,291,38,13.1
+DK,Inger Støjberg,Denmark Democrats,Right,Leader,149,22,14.8
+DK,Jakob Ellemann,"Left, Denmark's Liberal Party",Right,Leader,164,54,32.9
+DK,"Venstre, Danmarks Liberale Parti","Left, Denmark's Liberal Party",Right,Party,415,27,6.5
+DK,Alex Vanopslagh,Liberal Alliance,Right,Leader,208,71,34.1
+DK,Liberal Alliance,Liberal Alliance,Right,Party,265,27,10.2
+DK,Pernille Vermund,New Right,Right,Leader,245,73,29.8
+DK,Nye Borgerlige,New Right,Right,Party,222,10,4.5
+FI,Annika Saarikko,Centre Party,Centre,Leader,252,71,28.2
+FI,Suomen Keskusta,Centre Party,Centre,Party,444,43,9.7
+FI,Maria Ohisalo,Green League,Left,Leader,468,198,42.3
+FI,Vihreät,Green League,Left,Party,452,119,26.3
+FI,Li Andersson,Left Alliance,Left,Leader,315,112,35.6
+FI,Vasemmistoliitto,Left Alliance,Left,Party,423,142,33.6
+FI,Sanna Marin,Social Democratic Party,Left,Leader,176,15,8.5
+FI,Suomen Sosiaalidemokraattinen Puolue,Social Democratic Party,Left,Party,465,133,28.6
+FI,Sari Essayah,Christian Democrats,Right,Leader,478,28,5.9
+FI,Suomen Kristillisdemokraatit,Christian Democrats,Right,Party,648,91,14.0
+FI,Riikka Purra,Finns Party,Right,Leader,213,63,29.6
+FI,Perussuomalaiset,Finns Party,Right,Party,449,54,12.0
+FI,Harry Harkimo,Movement Now,Right,Leader,384,22,5.7
+FI,Liike Nyt,Movement Now,Right,Party,343,50,14.6
+FI,Petteri Orpo,National Coalition Party,Right,Leader,177,36,20.3
+FI,Kansallinen kokoomus,National Coalition Party,Right,Party,442,49,11.1
+FI,Anna-Maja Henriksson,Swedish People's Party,Right,Leader,284,31,10.9
+FI,Suomen Ruotsalainen Kansanpuolue,Swedish People's Party,Right,Party,549,44,8.0
+NO,Senterpartiet,Centre Party,Centre,Party,198,13,6.6
+NO,Dag Inge Ulstein,Christian Democratic Party,Centre,Leader,170,17,10.0
+NO,Kristelig Folkeparti,Christian Democratic Party,Centre,Party,300,21,7.0
+NO,Arild Hermstad,Green Party,Left,Leader,184,42,22.8
+NO,Miljøpartiet De Grønne (MDG),Green Party,Left,Party,239,50,20.9
+NO,Jonas Gahr Støre,Labour Party,Left,Leader,376,115,30.6
+NO,Arbeiderpartiet,Labour Party,Left,Party,597,70,11.7
+NO,Rødt,Red Party,Left,Party,660,62,9.4
+NO,SV - Socialistisk Venstreparti,Socialist Left Party,Left,Party,544,60,11.0
+NO,Erna Solberg,Conservative Party,Right,Leader,323,75,23.2
+NO,Høyre,Conservative Party,Right,Party,495,54,10.9
+NO,Sylvi Listhaug,Progress Party,Right,Leader,403,39,9.7
+NO,Fremskrittspartiet,Progress Party,Right,Party,509,41,8.1
+SE,Annie Lööf,Centre Party,Centre,Leader,483,145,30.0
+SE,Centerpartiet,Centre Party,Centre,Party,754,96,12.7
+SE,Märta Stenevi,Green Party,Left,Leader,135,54,40.0
+SE,Per Bolund,Green Party,Left,Leader,97,19,19.6
+SE,Miljöpartiet,Green Party,Left,Party,366,42,11.5
+SE,Nooshi Dadgostar,Left Party,Left,Leader,226,76,33.6
+SE,Vänsterpartiet,Left Party,Left,Party,387,56,14.5
+SE,Magdalena Andersson,Social Democrats,Left,Leader,444,126,28.4
+SE,Socialdemokraterna,Social Democrats,Left,Party,1220,109,8.9
+SE,Ebba Busch,Christian Democrats,Right,Leader,274,88,32.1
+SE,Kristdemokraterna,Christian Democrats,Right,Party,659,122,18.5
+SE,Johan Pehrson,Liberals,Right,Leader,230,40,17.4
+SE,Liberalerna,Liberals,Right,Party,671,86,12.8
+SE,Ulf Kristersson,Moderate Party,Right,Leader,386,151,39.1
+SE,Moderaterna,Moderate Party,Right,Party,937,101,10.8
+SE,Jimmie Åkesson,Sweden Democrats,Right,Leader,721,133,18.4
+SE,Sverigedemokraterna,Sweden Democrats,Right,Party,1856,177,9.5

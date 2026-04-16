@@ -1,0 +1,505 @@
+language,term,type
+Danish,for lang tid siden,4-gram
+Danish,når vi ser tilbage,4-gram
+Danish,aldrig før,bigram
+Danish,bagklogskabens lys,bigram
+Danish,bedre før,bigram
+Danish,fire år,bigram
+Danish,for nylig,bigram
+Danish,få tilbage,bigram
+Danish,før os,bigram
+Danish,genkalde sig,bigram
+Danish,give tilbage,bigram
+Danish,gået tabt,bigram
+Danish,hele livet,bigram
+Danish,igennem tiden,bigram
+Danish,længe siden,bigram
+Danish,min barndom,bigram
+Danish,min fortid,bigram
+Danish,min ungdom,bigram
+Danish,mindes sammen,bigram
+Danish,moderne tider,bigram
+Danish,otte år,bigram
+Danish,over tid,bigram
+Danish,sidste regeringsperiode,bigram
+Danish,sidste valg,bigram
+Danish,sidste år,bigram
+Danish,sidste årti,bigram
+Danish,stammer fra,bigram
+Danish,vende tilbage,bigram
+Danish,voksede op,bigram
+Danish,værre tidligere,bigram
+Danish,år siden,bigram
+Danish,de gamle dage,trigram
+Danish,i gamle dage,trigram
+Danish,arv,unigram
+Danish,arve,unigram
+Danish,bevare,unigram
+Danish,dengang,unigram
+Danish,epoke,unigram
+Danish,erindre,unigram
+Danish,erindring,unigram
+Danish,erodere,unigram
+Danish,erosion,unigram
+Danish,forfald,unigram
+Danish,forgangen,unigram
+Danish,forhåndværende,unigram
+Danish,forsvandt,unigram
+Danish,forsvundet,unigram
+Danish,fortid,unigram
+Danish,forældet,unigram
+Danish,gammel,unigram
+Danish,generation,unigram
+Danish,generationel,unigram
+Danish,generationer,unigram
+Danish,generobre,unigram
+Danish,genopbygge,unigram
+Danish,genopbyggelse,unigram
+Danish,genoprette,unigram
+Danish,genoprettelse,unigram
+Danish,genskabe,unigram
+Danish,genskabelse,unigram
+Danish,historie,unigram
+Danish,historien,unigram
+Danish,historisk,unigram
+Danish,husk*,unigram
+Danish,huske,unigram
+Danish,markere,unigram
+Danish,minde,unigram
+Danish,minde*,unigram
+Danish,mindehøjtidelighed,unigram
+Danish,minder,unigram
+Danish,mindes,unigram
+Danish,mindeværdig,unigram
+Danish,nostalgi,unigram
+Danish,nostalgisk,unigram
+Danish,nyligt,unigram
+Danish,oprindelig,unigram
+Danish,oprindelse,unigram
+Danish,opvoksede,unigram
+Danish,periode,unigram
+Danish,påmind*,unigram
+Danish,påminde,unigram
+Danish,påminder,unigram
+Danish,påmindet,unigram
+Danish,rekonstruktion,unigram
+Danish,rekonstrurere,unigram
+Danish,tallet,unigram
+Danish,tidligere,unigram
+Danish,tradition,unigram
+Danish,tradition*,unigram
+Danish,traditionel,unigram
+Danish,traditoner,unigram
+Danish,viking,unigram
+Danish,´erne,unigram
+Danish,århundrede,unigram
+Danish,århundreder,unigram
+Danish,årti,unigram
+Finnish,ajan myötä,bigram
+Finnish,ennen meitä,bigram
+Finnish,huonommin ennen,bigram
+Finnish,jälkikäteen ajateltuna,bigram
+Finnish,kahdeksan vuotta,bigram
+Finnish,kauan sitten,bigram
+Finnish,koko elämä,bigram
+Finnish,kunnioittaa muistoa,bigram
+Finnish,luoda uudestaan,bigram
+Finnish,moderni aika,bigram
+Finnish,neljä vuotta,bigram
+Finnish,näin jälkikäteen,bigram
+Finnish,ottaa takaisin,bigram
+Finnish,paremmin ennen,bigram
+Finnish,rakentaa uudelleen,bigram
+Finnish,siihen aikaan,bigram
+Finnish,tuoda takaisin,bigram
+Finnish,vanhat ajat,bigram
+Finnish,vanhoina aikoina,bigram
+Finnish,viettää muistoa,bigram
+Finnish,viime vaaleissa,bigram
+Finnish,viime vaalikaudella,bigram
+Finnish,viime vaalikausi,bigram
+Finnish,viime vaalit,bigram
+Finnish,viime vuonna,bigram
+Finnish,viime vuosikymmenenä,bigram
+Finnish,vuotta sitten,bigram
+Finnish,ei ikinä aiemmin,trigram
+Finnish,vuosia siitä lähtien,trigram
+Finnish,-luvulla,unigram
+Finnish,aikaisemmin,unigram
+Finnish,aikakau*,unigram
+Finnish,aikakaudella,unigram
+Finnish,aikakausi,unigram
+Finnish,ajanjakso*,unigram
+Finnish,ajanjaksolla,unigram
+Finnish,ajanjaksot,unigram
+Finnish,alkuperä*,unigram
+Finnish,alkuperäinen,unigram
+Finnish,edelli*,unigram
+Finnish,edellinen,unigram
+Finnish,edelliset,unigram
+Finnish,edellisiä,unigram
+Finnish,edellistä,unigram
+Finnish,elvyt*,unigram
+Finnish,elvyttää,unigram
+Finnish,ennallista*,unigram
+Finnish,ennallistaa,unigram
+Finnish,ennallistami*,unigram
+Finnish,ennallistaminen,unigram
+Finnish,entinen,unigram
+Finnish,entis*,unigram
+Finnish,entisellä,unigram
+Finnish,entisenä,unigram
+Finnish,entisessä,unigram
+Finnish,entiset,unigram
+Finnish,entisöi*,unigram
+Finnish,entisöidä,unigram
+Finnish,entisöiminen,unigram
+Finnish,eroosio,unigram
+Finnish,hajoaminen,unigram
+Finnish,hiljattainen,unigram
+Finnish,historia,unigram
+Finnish,historialli*,unigram
+Finnish,historiallinen,unigram
+Finnish,kadonnut,unigram
+Finnish,kasvoi,unigram
+Finnish,kauan,unigram
+Finnish,lapsuudessani,unigram
+Finnish,menneisyydessäni,unigram
+Finnish,menneisyys,unigram
+Finnish,mennyt,unigram
+Finnish,muinainen,unigram
+Finnish,muista*,unigram
+Finnish,muistaa,unigram
+Finnish,muistella,unigram
+Finnish,muisti*,unigram
+Finnish,muisto*,unigram
+Finnish,muistoa,unigram
+Finnish,muistoja,unigram
+Finnish,muistot,unigram
+Finnish,muistut*,unigram
+Finnish,muistuttaa,unigram
+Finnish,muistutus,unigram
+Finnish,nostalgi*,unigram
+Finnish,nostalgia,unigram
+Finnish,nostalginen,unigram
+Finnish,nuoruudessani,unigram
+Finnish,nykyaika,unigram
+Finnish,palaa*,unigram
+Finnish,palaamme,unigram
+Finnish,palat*,unigram
+Finnish,palata,unigram
+Finnish,palautt*,unigram
+Finnish,palauttaa,unigram
+Finnish,perin*,unigram
+Finnish,perinne,unigram
+Finnish,perinteet,unigram
+Finnish,perinteisiä,unigram
+Finnish,perintö,unigram
+Finnish,perintöjä,unigram
+Finnish,perintöä,unigram
+Finnish,peräisin,unigram
+Finnish,rappeutuminen,unigram
+Finnish,silloin,unigram
+Finnish,sukupolvet,unigram
+Finnish,sukupuolv*,unigram
+Finnish,sukupuolvi,unigram
+Finnish,syövyttäminen,unigram
+Finnish,säilyt*,unigram
+Finnish,säilyttää,unigram
+Finnish,säilytys,unigram
+Finnish,vanhentunut,unigram
+Finnish,varttui,unigram
+Finnish,viikinki,unigram
+Finnish,viimeaikainen,unigram
+Finnish,vuosikymmen*,unigram
+Finnish,vuosisa*,unigram
+Finnish,vuosisadalla,unigram
+Finnish,vuosisadat,unigram
+Finnish,vuosisata,unigram
+Finnish,ylisukpolvellisia,unigram
+Finnish,ylisukupolvelli*,unigram
+Finnish,ylisukupolvellinen,unigram
+Finnish,ylläpi*,unigram
+Finnish,ylläpitää,unigram
+Norwegian,i etterpå klokskapens lys,4-gram
+Norwegian,aldri før,bigram
+Norwegian,bedre før,bigram
+Norwegian,den gang,bigram
+Norwegian,fire år,bigram
+Norwegian,forrige regjeringsperiode,bigram
+Norwegian,forrige valg,bigram
+Norwegian,få tilbake,bigram
+Norwegian,før oss,bigram
+Norwegian,gi tilbake,bigram
+Norwegian,hele livet,bigram
+Norwegian,i ettertid,bigram
+Norwegian,i fjor,bigram
+Norwegian,lenge siden,bigram
+Norwegian,min barndom,bigram
+Norwegian,min fortid,bigram
+Norwegian,min ungdom,bigram
+Norwegian,moderne tid,bigram
+Norwegian,over tid,bigram
+Norwegian,siste tiår*,bigram
+Norwegian,verre før,bigram
+Norwegian,vokse opp,bigram
+Norwegian,å minnes,bigram
+Norwegian,år siden,bigram
+Norwegian,åtte år,bigram
+Norwegian,bygg på nytt,trigram
+Norwegian,i gamle dager,trigram
+Norwegian,lang tid siden,trigram
+Norwegian,-tallet,unigram
+Norwegian,arv,unigram
+Norwegian,arve,unigram
+Norwegian,bevare,unigram
+Norwegian,eldgammel,unigram
+Norwegian,epok*,unigram
+Norwegian,epoke,unigram
+Norwegian,epoker,unigram
+Norwegian,erosjon,unigram
+Norwegian,foreldet,unigram
+Norwegian,forfall,unigram
+Norwegian,forgangen,unigram
+Norwegian,forhendværende,unigram
+Norwegian,forsvinne,unigram
+Norwegian,forsvunnet,unigram
+Norwegian,fortid,unigram
+Norwegian,før,unigram
+Norwegian,gammel,unigram
+Norwegian,generasjonell,unigram
+Norwegian,genrasjon*,unigram
+Norwegian,gjenkalle,unigram
+Norwegian,gjenoppbygge,unigram
+Norwegian,gjenoppbygging,unigram
+Norwegian,gjenopprette,unigram
+Norwegian,gjenskape,unigram
+Norwegian,gjenvinne,unigram
+Norwegian,histor*,unigram
+Norwegian,historie,unigram
+Norwegian,historisk,unigram
+Norwegian,huske,unigram
+Norwegian,minder,unigram
+Norwegian,minn*,unigram
+Norwegian,minne,unigram
+Norwegian,minnemerk*,unigram
+Norwegian,minner,unigram
+Norwegian,minner*,unigram
+Norwegian,minnesmarkering,unigram
+Norwegian,minnesmarkeringer,unigram
+Norwegian,minnesmerke,unigram
+Norwegian,minnesmerking,unigram
+Norwegian,minnet,unigram
+Norwegian,nostalgi*,unigram
+Norwegian,nostalgia,unigram
+Norwegian,nostalgisk,unigram
+Norwegian,nylig*,unigram
+Norwegian,opprinnelse*,unigram
+Norwegian,opprinnelser,unigram
+Norwegian,oppsto,unigram
+Norwegian,period*,unigram
+Norwegian,periode,unigram
+Norwegian,periodene,unigram
+Norwegian,perioder,unigram
+Norwegian,påminnelse,unigram
+Norwegian,restaurering,unigram
+Norwegian,return*,unigram
+Norwegian,returnere,unigram
+Norwegian,tidligere,unigram
+Norwegian,tiår*,unigram
+Norwegian,tradisjon,unigram
+Norwegian,tradisjon*,unigram
+Norwegian,tradisjonell,unigram
+Norwegian,tradisjoner,unigram
+Norwegian,utdatert,unigram
+Norwegian,viking*,unigram
+Norwegian,århundre,unigram
+Norwegian,århundrer,unigram
+Norwegian,århundret,unigram
+Swedish,med facit i hand,4-gram
+Swedish,aldrig förr,bigram
+Swedish,aldrig förut,bigram
+Swedish,aldrig tidigare,bigram
+Swedish,bättre före,bigram
+Swedish,bättre förr,bigram
+Swedish,bättre innan,bigram
+Swedish,fyra år*,bigram
+Swedish,före oss,bigram
+Swedish,föregående decenni*,bigram
+Swedish,föregående mandatperiod*,bigram
+Swedish,föregående val*,bigram
+Swedish,föregående årtionde*,bigram
+Swedish,förra decenni*,bigram
+Swedish,förra mandatperiod*,bigram
+Swedish,förra val*,bigram
+Swedish,förra året,bigram
+Swedish,förra årtionde*,bigram
+Swedish,gamla dagar*,bigram
+Swedish,gamla tider,bigram
+Swedish,hela livet,bigram
+Swedish,i backspegeln,bigram
+Swedish,länge sedan,bigram
+Swedish,länge sen,bigram
+Swedish,lång tid,bigram
+Swedish,min barndom,bigram
+Swedish,min tidigare,bigram
+Swedish,min ungdom,bigram
+Swedish,mitt förflutna,bigram
+Swedish,mitt tidigare,bigram
+Swedish,modern tid,bigram
+Swedish,senaste decenni*,bigram
+Swedish,senaste mandatperiod*,bigram
+Swedish,senaste val*,bigram
+Swedish,senaste året,bigram
+Swedish,senaste årtionde*,bigram
+Swedish,sämre förr,bigram
+Swedish,sämre tidigare,bigram
+Swedish,ta tillbaka,bigram
+Swedish,vuxit upp,bigram
+Swedish,värre förr,bigram
+Swedish,värre tidigare,bigram
+Swedish,växte upp,bigram
+Swedish,år sedan,bigram
+Swedish,åtta år*,bigram
+Swedish,över tid,bigram
+Swedish,på den tiden,trigram
+Swedish,-tale*,unigram
+Swedish,-talen,unigram
+Swedish,-talet,unigram
+Swedish,arv*,unigram
+Swedish,arven,unigram
+Swedish,arvet,unigram
+Swedish,arvs,unigram
+Swedish,bevar*,unigram
+Swedish,bevara,unigram
+Swedish,bevarade,unigram
+Swedish,bevarande,unigram
+Swedish,bevarats,unigram
+Swedish,decenn*,unigram
+Swedish,decennier,unigram
+Swedish,decenniet,unigram
+Swedish,decennium,unigram
+Swedish,dåtid*,unigram
+Swedish,dåtida,unigram
+Swedish,dåtiden,unigram
+Swedish,epok*,unigram
+Swedish,forntid*,unigram
+Swedish,forntida,unigram
+Swedish,forntiden,unigram
+Swedish,forntidslämningar,unigram
+Swedish,forntidsminnen,unigram
+Swedish,förfall*,unigram
+Swedish,förflut*,unigram
+Swedish,förfluten,unigram
+Swedish,förflutet,unigram
+Swedish,förflutna,unigram
+Swedish,förgång*,unigram
+Swedish,förgången,unigram
+Swedish,förgångna,unigram
+Swedish,förr*,unigram
+Swedish,förra,unigram
+Swedish,förre,unigram
+Swedish,försvann,unigram
+Swedish,försvunn*,unigram
+Swedish,försvunnen,unigram
+Swedish,försvunnit,unigram
+Swedish,föråldrad*,unigram
+Swedish,generation*,unigram
+Swedish,generationell,unigram
+Swedish,generationella,unigram
+Swedish,generationen,unigram
+Swedish,generationens,unigram
+Swedish,generationer,unigram
+Swedish,generationerna,unigram
+Swedish,generationernas,unigram
+Swedish,histori*,unigram
+Swedish,historia,unigram
+Swedish,historien,unigram
+Swedish,historisk,unigram
+Swedish,historiska,unigram
+Swedish,ihågkom*,unigram
+Swedish,ihågkommes,unigram
+Swedish,ihågkomna,unigram
+Swedish,ihågkomst,unigram
+Swedish,legend*,unigram
+Swedish,legendarisk,unigram
+Swedish,legendariska,unigram
+Swedish,legendariskt,unigram
+Swedish,legenden,unigram
+Swedish,legender,unigram
+Swedish,legenderna,unigram
+Swedish,minn*,unigram
+Swedish,minnas,unigram
+Swedish,minne,unigram
+Swedish,minnen,unigram
+Swedish,minnena,unigram
+Swedish,minner,unigram
+Swedish,minnes,unigram
+Swedish,minnet,unigram
+Swedish,minns,unigram
+Swedish,nedärv*,unigram
+Swedish,nedärvd,unigram
+Swedish,nedärvda,unigram
+Swedish,nedärvs,unigram
+Swedish,nedärvts,unigram
+Swedish,nostalgi*,unigram
+Swedish,nostalgisk,unigram
+Swedish,nostalgiska,unigram
+Swedish,nostalgiskt,unigram
+Swedish,nylig*,unigram
+Swedish,nyliga,unigram
+Swedish,nyligen,unigram
+Swedish,nyligt,unigram
+Swedish,nyss,unigram
+Swedish,period*,unigram
+Swedish,påminner,unigram
+Swedish,rekonstruera,unigram
+Swedish,tradioner,unigram
+Swedish,tradition*,unigram
+Swedish,traditionell,unigram
+Swedish,traditionella,unigram
+Swedish,traditionellt,unigram
+Swedish,traditionen,unigram
+Swedish,traditionerna,unigram
+Swedish,urholka*,unigram
+Swedish,urholkad,unigram
+Swedish,urholkas,unigram
+Swedish,urholkat,unigram
+Swedish,urminn*,unigram
+Swedish,urminnen,unigram
+Swedish,urminnes,unigram
+Swedish,ursprung*,unigram
+Swedish,ursprunglig,unigram
+Swedish,viking*,unigram
+Swedish,ärv*,unigram
+Swedish,ärva,unigram
+Swedish,ärvda,unigram
+Swedish,ärvt,unigram
+Swedish,århundrade*,unigram
+Swedish,århundraden,unigram
+Swedish,århundradet,unigram
+Swedish,årtiond*,unigram
+Swedish,årtionde,unigram
+Swedish,årtionden,unigram
+Swedish,årtiondena,unigram
+Swedish,återerövra*,unigram
+Swedish,återgick,unigram
+Swedish,återgå,unigram
+Swedish,återgått,unigram
+Swedish,återkalla,unigram
+Swedish,återskapa*,unigram
+Swedish,återskapade,unigram
+Swedish,återskapande,unigram
+Swedish,återskapat,unigram
+Swedish,återställ*,unigram
+Swedish,återställa,unigram
+Swedish,återställda,unigram
+Swedish,återställt,unigram
+Swedish,återställts,unigram
+Swedish,återta*,unigram
+Swedish,återuppbygg*,unigram
+Swedish,återuppbygga,unigram
+Swedish,återuppbyggd,unigram
+Swedish,återuppbyggt,unigram
+Swedish,återvända,unigram
+Swedish,återvänt,unigram
