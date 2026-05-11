@@ -73,7 +73,6 @@ _ENGLISH_TO_SUPERCATEGORY = {
     "previous*": "Temporal markers",
     "epoch": "Temporal markers",
     "Period": "Temporal markers",
-    "Viking": "Temporal markers",
     "Obsolete": "Temporal markers",
     "Bygone": "Temporal markers",
     "years ago": "Temporal markers",

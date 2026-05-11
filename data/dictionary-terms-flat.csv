@@ -90,7 +90,6 @@ Danish,tradition,unigram
 Danish,tradition*,unigram
 Danish,traditionel,unigram
 Danish,traditoner,unigram
-Danish,viking,unigram
 Danish,´erne,unigram
 Danish,århundrede,unigram
 Danish,århundreder,unigram
@@ -209,7 +208,6 @@ Finnish,säilyttää,unigram
 Finnish,säilytys,unigram
 Finnish,vanhentunut,unigram
 Finnish,varttui,unigram
-Finnish,viikinki,unigram
 Finnish,viimeaikainen,unigram
 Finnish,vuosikymmen*,unigram
 Finnish,vuosisa*,unigram
@@ -312,7 +310,6 @@ Norwegian,tradisjon*,unigram
 Norwegian,tradisjonell,unigram
 Norwegian,tradisjoner,unigram
 Norwegian,utdatert,unigram
-Norwegian,viking*,unigram
 Norwegian,århundre,unigram
 Norwegian,århundrer,unigram
 Norwegian,århundret,unigram
@@ -470,7 +467,6 @@ Swedish,urminnen,unigram
 Swedish,urminnes,unigram
 Swedish,ursprung*,unigram
 Swedish,ursprunglig,unigram
-Swedish,viking*,unigram
 Swedish,ärv*,unigram
 Swedish,ärva,unigram
 Swedish,ärvda,unigram
