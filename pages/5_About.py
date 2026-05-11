@@ -21,24 +21,26 @@ parties and leaders invoke the past in social media election campaigns.
 
 - **68 Facebook pages** (official party and party leader pages) across all parliamentary
   parties in the four countries
-- **26,388 posts** and **215,058 first-level comments** collected via the Meta Content
-  Library
+- **26,388 posts** collected via the Meta Content Library
 - **12-month collection window** per country, ending on election day:
   - Denmark: 2022-11-01
   - Finland: 2023-04-02
   - Norway: 2021-09-13
   - Sweden: 2022-09-11
+- **Comments to past-related posts** (full thread scrape): **802,696** comments
+  in total, of which **483,507 (60.2%)** are first-level.
 
 ## The Hindsight Dictionary
 
-A custom dictionary of 61 English-language seed terms in three categories:
+A custom dictionary of 59 English-language seed terms in three categories
+(plus two Swedish-only additions with no shared English equivalent):
 
 - **Conceptual terms** (e.g., memory, tradition, heritage, nostalgia)
 - **Temporal markers** (e.g., past, decade, century, "years ago")
-- **Phrasal expressions** (e.g., "bring back", "old days", "in hindsight")
+- **N-gram phrases** (e.g., "bring back", "old days", "in hindsight")
 
-These were collaboratively translated and expanded into Danish (96 entries), Finnish
-(126), Norwegian (95), and Swedish (187). Posts matching one or more dictionary terms
+These were collaboratively translated and expanded into Danish (95 entries), Finnish
+(125), Norwegian (94), and Swedish (186). Posts matching one or more dictionary terms
 were classified as "past-related": **4,583 posts (17.4%)**.
 
 ## Word2Vec Models

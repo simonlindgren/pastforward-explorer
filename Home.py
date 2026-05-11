@@ -48,7 +48,7 @@ st.markdown(
             <div style="font-size: 0.75em; color: #888; text-transform: uppercase;
                         letter-spacing: 0.5px;">Dictionary Terms</div>
             <div style="font-size: 1.2em; font-weight: 700; color: #c084fc;
-                        margin-top: 8px;">61</div>
+                        margin-top: 8px;">59</div>
         </div>
     </div>
     """,

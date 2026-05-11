@@ -83,13 +83,13 @@ Danish,påminde,unigram
 Danish,påminder,unigram
 Danish,påmindet,unigram
 Danish,rekonstruktion,unigram
-Danish,rekonstrurere,unigram
+Danish,rekonstruere,unigram
 Danish,tallet,unigram
 Danish,tidligere,unigram
 Danish,tradition,unigram
 Danish,tradition*,unigram
 Danish,traditionel,unigram
-Danish,traditoner,unigram
+Danish,traditioner,unigram
 Danish,´erne,unigram
 Danish,århundrede,unigram
 Danish,århundreder,unigram
@@ -200,8 +200,8 @@ Finnish,peräisin,unigram
 Finnish,rappeutuminen,unigram
 Finnish,silloin,unigram
 Finnish,sukupolvet,unigram
-Finnish,sukupuolv*,unigram
-Finnish,sukupuolvi,unigram
+Finnish,sukupolv*,unigram
+Finnish,sukupolvi,unigram
 Finnish,syövyttäminen,unigram
 Finnish,säilyt*,unigram
 Finnish,säilyttää,unigram
@@ -214,7 +214,7 @@ Finnish,vuosisa*,unigram
 Finnish,vuosisadalla,unigram
 Finnish,vuosisadat,unigram
 Finnish,vuosisata,unigram
-Finnish,ylisukpolvellisia,unigram
+Finnish,ylisukupolvellisia,unigram
 Finnish,ylisukupolvelli*,unigram
 Finnish,ylisukupolvellinen,unigram
 Finnish,ylläpi*,unigram
@@ -266,7 +266,7 @@ Norwegian,fortid,unigram
 Norwegian,før,unigram
 Norwegian,gammel,unigram
 Norwegian,generasjonell,unigram
-Norwegian,genrasjon*,unigram
+Norwegian,generasjon*,unigram
 Norwegian,gjenkalle,unigram
 Norwegian,gjenoppbygge,unigram
 Norwegian,gjenoppbygging,unigram
@@ -451,7 +451,7 @@ Swedish,nyss,unigram
 Swedish,period*,unigram
 Swedish,påminner,unigram
 Swedish,rekonstruera,unigram
-Swedish,tradioner,unigram
+Swedish,traditioner,unigram
 Swedish,tradition*,unigram
 Swedish,traditionell,unigram
 Swedish,traditionella,unigram
